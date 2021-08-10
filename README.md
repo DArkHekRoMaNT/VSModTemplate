@@ -1,3 +1,2 @@
 # VSModTemplate
-
-## (Forum)[https://vintagestory.at/forums/topic/] (ModDB)[https://mods.vintagestory.at]
+### Links: [Forum](https://www.vintagestory.at/forums/forum/17-mod-releases/), [ModDB](https://mods.vintagestory.at)
