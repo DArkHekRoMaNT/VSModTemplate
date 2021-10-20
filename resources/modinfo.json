@@ -2,10 +2,10 @@
   "type": "code",
   "modid": "",
   "name": "",
-  "author": "DArkHekRoMaNT",
+  "authors": ["DArkHekRoMaNT"],
   "description": "",
   "version": "1.0.0",
-  "dependency": {
+  "dependencies": {
     "game": "1.15.0"
   },
   "website": "https://github.com/DArkHekRoMaNT/VSModTemplate"
