@@ -9,7 +9,7 @@
       "program": "${env:VINTAGE_STORY}/${config:vsversion}/Vintagestory.exe",
       "args": [
         "--playstyle",
-        "surviveandbuild",
+        "preset-surviveandbuild",
         "--openWorld",
         "modding test world",
         "--dataPath",
@@ -28,7 +28,7 @@
       "program": "${env:VINTAGE_STORY}/${config:vsversion}/Vintagestory.exe",
       "args": [
         "--playstyle",
-        "surviveandbuild",
+        "preset-surviveandbuild",
         "--openWorld",
         "modding test world",
         "--dataPath",
