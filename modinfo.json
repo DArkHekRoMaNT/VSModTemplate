@@ -2,11 +2,11 @@
   "type": "code",
   "modid": "",
   "name": "",
-  "authors": ["DArkHekRoMaNT"],
+  "authors": [ "DArkHekRoMaNT" ],
   "description": "",
   "version": "1.0.0",
   "dependencies": {
-    "game": "1.15.0"
+    "game": "1.16.0"
   },
   "website": "https://github.com/DArkHekRoMaNT/VSModTemplate"
 }
